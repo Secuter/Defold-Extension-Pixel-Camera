@@ -12,8 +12,6 @@
 -- CONDITIONS OF ANY KIND, either express or implied. See the License for the
 -- specific language governing permissions and limitations under the License.
 
-if not CONSTANTS_IMPORTED then require("scripts.constants") end
-
 --
 -- projection that centers content with maintained aspect ratio and optional zoom
 --
