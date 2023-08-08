@@ -1,9 +1,8 @@
 # Defold Pixel Camera Library
 
-Adds a camera projection that zooms to window size without losing pixel precision, using integer scales only, 2x 3x ...<br/>
+This extension adds a camera projection to the default Defold's render script.<br/>
+The camera zooms to window size without losing pixel precision, using integer scales only, 2x 3x ...<br/>
 It also has an option to add a margin if the window exceed the specified size.
-
-### Use
  
 1. Add the url in the project libraries<br/>
 https://github.com/Secuter/Defold-Extension-Pixel-Camera/archive/master.zip
