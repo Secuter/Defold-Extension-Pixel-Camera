@@ -28,3 +28,7 @@ subpixels = 0
 
 [sprite]
 subpixels = 0
+
+[library]
+include_dirs = pixel_camera
+
